@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "RoxanaMindreci",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/RoxanaMindreci/goit-js-hw-08.git",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/RoxanaMindreci/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Roxana-Mindreci roxpaun100@yahoo.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/RoxanaMindreci/goit-js-hw-08.git"
   },
   "dependencies": {
     "@vimeo/player": "^2.21.0",
