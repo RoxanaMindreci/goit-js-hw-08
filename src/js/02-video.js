@@ -13,7 +13,7 @@
 //nu mai mult de o dată pe secundă.
 //
 
-import { throttle } from 'lodash';
+import throttle from 'lodash/throttle';
 import Player from '@vimeo/player';
 
 const VCT_KEY = 'videoplayer-current-time';
