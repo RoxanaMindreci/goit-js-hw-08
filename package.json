@@ -1,11 +1,11 @@
 {
-  "name": "RoxanaMindreci",
+  "name": "roxana_mindreci",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/RoxanaMindreci/goit-js-hw-08.git",
+  "homepage": "https://Roxana_Mindreci.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /roxana-mindreci/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
